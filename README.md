@@ -7,6 +7,6 @@ Live website: [vercel](https://memory-game-react-mu.vercel.app/).
 # Summary
 It's your classic matching game. It also counts the number of turns it takes the player to finish. 
 
-# Preview
+
 
 
